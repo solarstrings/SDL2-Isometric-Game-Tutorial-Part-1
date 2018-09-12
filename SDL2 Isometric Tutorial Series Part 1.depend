@@ -1,0 +1,46 @@
+# depslib dependency file v1.0
+1506886498 source:d:\programmering\sdl2  isometric tutorial serie\sdl2 isometric tutorial series part 1\initclose.c
+	<SDL2/SDL.h>
+	<SDL2/SDL_image.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"initclose.h"
+	"renderer.h"
+
+1506885884 d:\programmering\sdl2  isometric tutorial serie\sdl2 isometric tutorial series part 1\initclose.h
+
+1503717319 d:\programmering\sdl2  isometric tutorial serie\sdl2 isometric tutorial series part 1\renderer.h
+	"SDL2/SDL.h"
+
+1506882808 source:d:\programmering\sdl2  isometric tutorial serie\sdl2 isometric tutorial series part 1\isoengine.c
+	<stdio.h>
+	<math.h>
+	"IsoEngine.h"
+
+1506882711 d:\programmering\sdl2  isometric tutorial serie\sdl2 isometric tutorial series part 1\isoengine.h
+
+1497934812 source:d:\programmering\sdl2  isometric tutorial serie\sdl2 isometric tutorial series part 1\renderer.c
+	<stdio.h>
+	<stdlib.h>
+	<SDL2/SDL.h>
+	"renderer.h"
+
+1506889337 source:d:\programmering\sdl2  isometric tutorial serie\sdl2 isometric tutorial series part 1\isotutorialpart1.c
+	<stdio.h>
+	<stdlib.h>
+	<SDL2/SDL.h>
+	"initclose.h"
+	"isoEngine.h"
+	"texture.h"
+	"renderer.h"
+
+1506885732 d:\programmering\sdl2  isometric tutorial serie\sdl2 isometric tutorial series part 1\texture.h
+
+1506886831 source:d:\programmering\sdl2  isometric tutorial serie\sdl2 isometric tutorial series part 1\texture.c
+	<SDL2/SDL.h>
+	<SDL2/SDL_image.h>
+	<stdio.h>
+	"texture.h"
+	"renderer.h"
+

@@ -1,0 +1,45 @@
+# depslib dependency file v1.0
+1506967909 source:d:\programmering\sdl2  isometric tutorial serie\sdl2 isometric game tutorial series part 1 - copy\initclose.c
+	<SDL2/SDL.h>
+	<SDL2/SDL_image.h>
+	<stdio.h>
+	<stdlib.h>
+	"initclose.h"
+	"renderer.h"
+
+1506967343 d:\programmering\sdl2  isometric tutorial serie\sdl2 isometric game tutorial series part 1 - copy\initclose.h
+
+1506967973 d:\programmering\sdl2  isometric tutorial serie\sdl2 isometric game tutorial series part 1 - copy\renderer.h
+
+1507055960 source:d:\programmering\sdl2  isometric tutorial serie\sdl2 isometric game tutorial series part 1 - copy\isoengine.c
+	<stdio.h>
+	<math.h>
+	"isoEngine.h"
+
+1507056155 source:d:\programmering\sdl2  isometric tutorial serie\sdl2 isometric game tutorial series part 1 - copy\isotutorialpart1.c
+	<SDL2/SDL.h>
+	<stdio.h>
+	<stdlib.h>
+	"initclose.h"
+	"renderer.h"
+	"texture.h"
+	"isoEngine.h"
+
+1506967926 source:d:\programmering\sdl2  isometric tutorial serie\sdl2 isometric game tutorial series part 1 - copy\renderer.c
+	<SDL2/SDL.h>
+	<stdio.h>
+	<stdlib.h>
+	"renderer.h"
+
+1507041758 source:d:\programmering\sdl2  isometric tutorial serie\sdl2 isometric game tutorial series part 1 - copy\texture.c
+	<SDL2/SDL.h>
+	<SDL2/SDL_image.h>
+	<stdio.h>
+	<stdlib.h>
+	"renderer.h"
+	"texture.h"
+
+1507040780 d:\programmering\sdl2  isometric tutorial serie\sdl2 isometric game tutorial series part 1 - copy\texture.h
+
+1507055934 d:\programmering\sdl2  isometric tutorial serie\sdl2 isometric game tutorial series part 1 - copy\isoengine.h
+
